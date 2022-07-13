@@ -1,0 +1,2 @@
+# typeScriptCrashCourse
+Learning typeScript 
