@@ -1,5 +1,9 @@
 # TypeScriptCrashCourse
 
+- (Followed Brad Traversy's crash course)
+
+https://www.youtube.com/watch?v=BCg4U1FzODs
+
 ## What is TypeScript?
 
 - Open Source language
@@ -33,3 +37,8 @@
 ## Can setup the out directory and root directory in the jsconfig.json
 
 - Uncomment (line 52 and 29) and name the folders outDir to dist, rootDir to src
+
+## Can include typeScript with REACT
+
+- Run in terminal ==> npx create-react-app . --template typescript
+- The . causes the files to be generated in the current folder
